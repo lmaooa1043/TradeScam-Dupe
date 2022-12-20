@@ -47,7 +47,7 @@ script1.Text = "On"
 script1.TextColor3 = Color3.fromRGB(0, 0, 0)
 script1.TextSize = 35.000
 script1.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/lmaooa1043/TradeScam-Dupe/main/TradescamAndDupe.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lmaooa1043/TradeScam-Dupe/main/TradeScamOn.lua"))()
 end)
 
 label2.Name = "label2"
@@ -72,7 +72,7 @@ script2.Text = "Off"
 script2.TextColor3 = Color3.fromRGB(0, 0, 0)
 script2.TextSize = 35.000
 script1.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/lmaooa1043/TradeScam-Dupe/main/TradescamAndDupe.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lmaooa1043/TradeScam-Dupe/main/TradeScamOff.lua"))()
 end)
 
 label3.Name = "label3"
